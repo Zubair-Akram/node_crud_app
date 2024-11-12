@@ -1,0 +1,12 @@
+# Node.js modules
+node_modules/
+
+# Environment variables
+.env
+
+# Uploads folder
+uploads/
+
+# System files
+.DS_Store
+Thumbs.db
